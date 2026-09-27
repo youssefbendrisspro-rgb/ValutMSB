@@ -1,0 +1,8 @@
+{
+  "name": "VOLT — Générateurs de secours",
+  "description": "Plateforme industrielle de vente, location et maintenance d'urgence de groupes électrogènes diesel pour le Grand Tunis face aux coupures de courant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
